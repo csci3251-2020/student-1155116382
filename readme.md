@@ -1,4 +1,4 @@
-## Somthing about me
+## Somthing About Me
 
 Hello, My name is Yan Chun Hung,Eric.
 I am a year 3 CE student.
@@ -34,4 +34,4 @@ I love Maths.
 
 ## Screenshot:
 ![Screenshot Commands](m2_1.PNG)
-![Screenshot Commands](m2_2,PNG)
+![Screenshot Commands](m2_2.PNG)
