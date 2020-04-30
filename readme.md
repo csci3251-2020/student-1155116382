@@ -1,16 +1,17 @@
 ## Somthing about me
 
-Hello,My name is Yan Chun Hung,Eric.
+Hello, My name is Yan Chun Hung,Eric.
 I am a year 3 CE student.
-I love maths.
+I love Maths.
 
 
-## Programming language:
+## Programming Language:
 
--C
--Java
--Python
--VHDL
+- C
+- C++
+- Java
+- Python
+- VHDL
 
 
 ## Course I taken this semster:
@@ -30,3 +31,7 @@ I love maths.
 - [ ] Milestone 2
 - [ ] Milestone 3
 
+
+## Screenshot:
+![Screenshot Commands](m2_1.PNG)
+![Screenshot Commands](m2_2,PNG)
